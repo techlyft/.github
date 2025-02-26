@@ -1,6 +1,6 @@
 <h1>
 <p align="center">
-  <img src="https://github.com/techlyft-oss.png" alt="Logo" width="100">
+  <img src="https://github.com/techlyft.png" alt="Logo" width="100">
   <br>TechLyft
 </h1>
   <p align="center">
